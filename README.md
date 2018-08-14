@@ -36,7 +36,7 @@
   * Echarts4.0
   * Redis2.9
   * layui2.3 <br/>
->本项目展示部分主要使用layui小型轻巧的前端框架构建，主要使用到layui的动态数据表格分页渲染、弹出层模块、轮播模块、评分模块、文件上传模块、laydate日期选择模、表单验证等等，layui比bootstrap感觉更易上手，功能也更加切合项目的需求，特此感谢闲心大大的贡献。<br/>
+>本项目展示部分主要使用layui小型轻巧的前端框架构建，主要使用到layui的动态数据表格分页渲染、弹出层模块、轮播模块、评分模块、文件上传模块、laydate日期选择模块、表单验证等等，layui比bootstrap感觉更易上手，功能也更加切合项目的需求，特此感谢闲心大大的贡献。<br/>
 >项目前端展示使用Redis来进行缓存商品的详细信息以及评价，缓解数据库负载，项目运行需要在spring配置文件中配置好redis的连接信息。<br/>
 >支付模块采用调用支付宝接口进行支付，需要在com.phonemarket.util.alipayconfig文件中配置应用id以及公钥私钥等配置信息，才能够正确调用支付模块，可以自行去支付宝开发平台申请开发者账户应用进行配置即可。<br/>
 >原来做的项目，最近扒出来整理发布下，希望能够帮助正在学习这些技术的同学们，页面大都由自己构建，非前端人员，难免有些简陋，项目可能还存在很多bug，希望大神们能批评指正。
@@ -44,3 +44,23 @@
 
 ### 数据库设计预览
 ![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/sql.png)
+
+### 前台预览
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian1.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian2.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian3.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian4.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian5.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian6.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian7.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian8.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/qian9.png)
+### 后台预览
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou1.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou2.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou3.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou4.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou5.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou6.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou7.png)
+![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/hou8.png)
