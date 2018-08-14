@@ -1,4 +1,4 @@
-# 乐购手机商城 LEMarket
+# 乐享手机商城 LEMarket
 ### 基于Spring+Spring MVC+Mybatis+layui框架构建的手机商城系统
 ### 实现功能
 * 前台
