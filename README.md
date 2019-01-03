@@ -43,6 +43,9 @@
 >有任何问题可联系邮箱528290695@qq.com
 
 ### 数据库设计预览
+
+>数据库脚本在 src/main/resources/phonemarket2.sql
+
 ![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/sql.png)
 
 ### 前台预览
