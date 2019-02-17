@@ -1,7 +1,3 @@
-### 支付宝扫一扫领红包  就当犒劳下我的劳动成果啦~
-
-![Image text](https://github.com/wonderyuan/Image-Storage/blob/master/S9.jpg)
-
 # 乐享手机商城 LEMarket
 ### 基于Spring+Spring MVC+Mybatis+layui框架构建的手机商城系统
 ### 实现功能
